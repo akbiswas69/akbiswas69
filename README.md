@@ -1,4 +1,4 @@
-<img src-"https://media.licdn.com/dms/image/v2/D5616AQEFEgBCphdE8g/profile-displaybackgroundimage-shrink_200_800/B56Z9nQ6G2IMAQ-/0/1784143913687?e=1785974400&v=beta&t=FQk4vWIvDoYiTg10QdEjR2-I-kEJlzMeR9koJ9gH_uU>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQEFEgBCphdE8g/profile-displaybackgroundimage-shrink_200_800/B56Z9nQ6G2IMAQ-/0/1784143913687?e=1785974400&v=beta&t=FQk4vWIvDoYiTg10QdEjR2-I-kEJlzMeR9koJ9gH_uU>
 <h1 align="center">Hi 👋, I'm Ananta Biswas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
