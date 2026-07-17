@@ -1,3 +1,4 @@
+<img sre"Ananta.png">
 <h1 align="center">Hi 👋, I'm Ananta Biswas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
