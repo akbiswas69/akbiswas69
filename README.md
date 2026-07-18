@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/drive/my-drive">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQEFEgBCphdE8g/profile-displaybackgroundimage-shrink_350_1400/B56Z9nQ6G2IMAU-/0/1784143913687?e=1785974400&v=beta&t=TzrVdiiY-3Ya0BeyZLGG1bwwhRTtI6sQkU9wSWTsk8o">
 <h1 align="center">Hi 👋, I'm Ananta Biswas</h1>
 <h3 align="center">A passionate Web Designer & developer from Bangladesh</h3>
 
