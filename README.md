@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQH2sRuzZKzSQw/profile-displaybackgroundimage-shrink_350_1400/B56Z_iw03TJ0AY-/0/1786215878371?e=1789603200&v=beta&t=ekTEb07NUQz_h5RPEytXE3VFpI5N865QkhIDIIcUNiI">
+<img src= url"https://media.licdn.com/dms/image/v2/D5616AQH2sRuzZKzSQw/profile-displaybackgroundimage-shrink_350_1400/B56Z_iw03TJ0AY-/0/1786215878371?e=1789603200&v=beta&t=ekTEb07NUQz_h5RPEytXE3VFpI5N865QkhIDIIcUNiI">
 <h3 align="center">A passionate Web Designer & developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbiswas69&label=Profile%20views&color=0e75b6&style=flat" alt="akbiswas69" /> </p>
