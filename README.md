@@ -1,4 +1,4 @@
-<img src= "url=https://savedly.net/f/cqagpy9d">
+<img src= "https://savedly.net/f/cqagpy9d">
 <h3 align="center">A passionate Web Designer & developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akbiswas69&label=Profile%20views&color=0e75b6&style=flat" alt="akbiswas69" /> </p>
